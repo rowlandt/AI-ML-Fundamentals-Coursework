@@ -23,7 +23,7 @@ This course introduces key ideas and methods used in Artificial Intelligence and
 
 ## Tools & Libraries
 
-* Python
+* Python, R
 * NumPy, Pandas, Matplotlib, Seaborn
 * scikit-learn
 * Jupyter Notebook
